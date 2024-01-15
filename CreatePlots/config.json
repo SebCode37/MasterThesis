@@ -1,0 +1,76 @@
+{
+  "mev_types": ["arb","sandwich","liquid"],
+  "mev_types_selector": ["extractor_profit_usd","user_loss_usd","extractor_profit_usd"],
+  "outputFile": "mevTypeData.csv",
+  "customOutputFile": "customMevTypeData.csv",
+  "comparisionFile": "comparisionPlotData.csv",
+  "outlierFile": "mevTypeDataOutlier.csv",
+  "folderName": "dataFolder",
+  "drops": [
+    {
+      "month": "March 22",
+      "startdrop": 14297759,
+      "enddrop": 14497033
+    },
+    {
+      "month": "April 22",
+      "startdrop": 14497034,
+      "enddrop": 14688629
+    },
+    {
+      "month": "May 22",
+      "startdrop": 14688630,
+      "enddrop": 14881676
+    },
+    {
+      "month": "June 22",
+      "startdrop": 14881677,
+      "enddrop": 15053225
+    },
+    {
+      "month": "July 22",
+      "startdrop": 15053226,
+      "enddrop": 15253305
+    },
+    {
+      "month": "August 22",
+      "startdrop": 15253306,
+      "enddrop": 15449617
+    },
+    {
+      "month": "September 22",
+      "startdrop": 15449618,
+      "enddrop": 15649594
+    },
+    {
+      "month": "October 22",
+      "startdrop": 15649595,
+      "enddrop": 15871479
+    },
+    {
+      "month": "November 22",
+      "startdrop": 15871480,
+      "enddrop": 16086233
+    },
+    {
+      "month": "December 22",
+      "startdrop": 16086234,
+      "enddrop": 16308189
+    },
+    {
+      "month": "January 23",
+      "startdrop": 16308190,
+      "enddrop": 16530247
+    },
+    {
+      "month": "February 23",
+      "startdrop": 16530248,
+      "enddrop": 16730071
+    },
+    {
+      "month": "March 23",
+      "startdrop": 16730072,
+      "enddrop": 16950602
+    }
+  ]
+}
